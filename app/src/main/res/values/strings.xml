@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">HiddenHouston</string>
+    <string name="bars"> BARS </string>
+    <string name="breakfast"> BREAKFAST </string>
+    <string name="lunch">  <b><i> LUNCH </i></b></string>
+    <string name="hiddenhouston"> <b><i>HIDDEN HOUSTON </i></b> </string>
+    <string name="action_share">Share</string>
+    <string name="Option4"><b><i>Cafes</i></b> </string>
+    <string name="Mac_menu"> MacDonalds Menu</string>
+    <string name="create_order"> Create Order </string>
+
+
+    <string name="select_one"><i><b>Choose Breakfast Location!!</b></i></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_1">MAC FAST</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="beverages">
+        <item> Coca-Cola</item>
+        <item> Fanta </item>
+        <item> Sprite </item>
+        <item> Coke Zero </item>
+        <item> Dr Pepper </item>
+        <item> Vanilla Shake </item>
+        <item> Chocolate Shake </item>
+    </string-array>
+
+
+    <string-array name="burgers">
+        <item> Big M-uhd</item>
+        <item> Quarter P-Uhd</item>
+        <item> Double Quarter P-Uhd</item>
+        <item> Double Cheese B-Uhd</item>
+        <item> Mac D-Uhd</item>
+        <item> Hamburger </item>
+        <item>Cheese b-Uhd</item>
+    </string-array>
+
+
+    <string-array name="Desayuno">
+        <item> Donut sticks</item>
+        <item> Egg Muffin </item>
+        <item> Sausage Egg muffin </item>
+        <item> Sausage Biscuit </item>
+        <item> Bacon Egg muffin </item>
+        <item> Egg Cheese muffin </item>
+    </string-array>
+
+
+    <string-array name="snacks">
+        <item> Fries </item>
+        <item> Apple Slices </item>
+        <item> side Salad </item>
+        <item> Yo-plait GO - Yogurt </item>
+        <item> Minute maid BLUE Raspberry Slice </item>
+        <item> Minute maid Fruit punch Slushie </item>
+    </string-array>
+
+
+    <!--TABLAYOUT-->
+    <string name="breakfast_tab"> Breakfast </string>
+    <string name="lunch_tab"> Lunch </string>
+    <string name="snacks_tab"> Snacks </string>
+    <string name="beverages_tab"> Beverages </string>
+</resources>
